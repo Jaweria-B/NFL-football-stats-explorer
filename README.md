@@ -34,6 +34,9 @@ Welcome to the NFL Football Stats (Rushing) Explorer! This Streamlit app allows 
    streamlit run app.py
    ```
 
+## Demo
+[Live Demo](https://nfl-football-stats-explorer-jb.streamlit.app/)
+
 ## Usage
 
 1. Upon running the app, you'll be presented with a sidebar containing user input features such as the year, team selection, and position selection.
