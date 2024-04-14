@@ -6,6 +6,9 @@ import seaborn as sns
 import numpy as np
 import datetime
 
+# Setting title and icon
+st.set_page_config(page_title="NFL Stats Explorer", page_icon="🏈")
+
 st.title('NFL Football Stats (Rushing) Explorer')
 
 st.markdown("""
